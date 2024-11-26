@@ -68,3 +68,14 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
+
+Nahid@DESKTOP-90M7NGV MINGW64 /h/SW Lab(3206)/Lab01/c-repository (main)
+$ git ls-files
+README.md
+hello.cpp
+
+
+
+
+
+
